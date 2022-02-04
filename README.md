@@ -1,5 +1,17 @@
-<h1 align="center">Aer</h1>
+<h2 align="center">Aer Desktop</h2>
 
 <p align="center">
-  <img src="./img/aer.png" width="25%" height="15%" alt="">
+  <img src="./img/aer.png" width="700" height="500" alt="">
+</p>
+
+<h3 align="center">Aer Tablet</h3>
+
+<p align="center">
+  <img src="./img/aer-tab.png" width="450" height="450" alt="">
+</p>
+
+<h3 align="center">Aer Mobile</h3>
+
+<p align="center">
+  <img src="./img/aer-mobile.png" width="300" height="400" alt="">
 </p>
