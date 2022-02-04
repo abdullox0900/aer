@@ -1,7 +1,7 @@
 <h2 align="center">Aer Desktop</h2>
 
 <p align="center">
-  <img src="./img/aer.png" width="700" height="500" alt="">
+  <img src="./img/aer.png" width="1000" height="600" alt="">
 </p>
 
 <h3 align="center">Aer Tablet</h3>
